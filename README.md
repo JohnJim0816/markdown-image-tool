@@ -20,7 +20,7 @@
 
 ## 本地图片一键转markdown链接工具
 
-受[AssassinZF](https://github.com/AssassinZF/markdown-image-tool)的启发，本人新建了一个AppleScript如下，也可直接下载[get markdown image URL with one click]()这个脚本，根据你的用户名和用于做图床的仓库名更改第二、三行内容。
+受[AssassinZF](https://github.com/AssassinZF/markdown-image-tool)的启发，本人新建了一个AppleScript如下，也可直接下载[get markdown image URL with one click](https://github.com/JohnJim0816/markdown-image-tool/blob/master/get%20markdown%20image%20URL%20with%20one%20click.scpt)这个脚本，根据你的用户名和用于做图床的仓库名更改第二、三行内容。
 
 ```AppleScript
 global reponame
