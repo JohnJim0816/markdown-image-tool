@@ -77,17 +77,19 @@ on theSplit(theString, theDelimiter, replace)
 end theSplit
 ```
 然后打开mac的 ```自动操作```应用，
-fig1
+![fig1](https://raw.githubusercontent.com/JohnJim0816/markdown-image-tool/master/figs/1.png)
 新建一个快速操作，
-fig2
+![fig2](https://raw.githubusercontent.com/JohnJim0816/markdown-image-tool/master/figs/2.png)
 找到```运行AppleScript```选项双击，然后将以上自建的脚本复制到右边保存(比如命名为convert img to md URL)即可，
-fig3
+![fig3](https://raw.githubusercontent.com/JohnJim0816/markdown-image-tool/master/figs/3.png)
 
 ## 编辑markdown
 
 脚本建立完毕之后，选中本地图床github仓库下对应的图片，右键-快速操作-convert img to md URL，然后找到markdown开始标记的第一张图片位置image1，选中然后```CMD+V```就完事啦。如下：
 
-fig4
+
+![fig4](https://raw.githubusercontent.com/JohnJim0816/markdown-image-tool/master/figs/4.png)
+
 
 ```markdown
 ![](https://raw.githubusercontent.com/JohnJim0816/blog-figures/master/2020/04/我的Hexo-Github博客搭建笔记/1.png)
